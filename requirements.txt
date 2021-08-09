@@ -1,6 +1,5 @@
-pip==9.0.2
-tensorflow-gpu==2.5.0rc0
 opencv-python==4.3.0.38
+tensorflow-gpu==2.5.0rc0
 lxml
 tqdm
 absl-py
